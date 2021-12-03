@@ -1,0 +1,8 @@
+{
+  "name": "mono-repo",
+  "main": "index.js",
+  "private": true,
+  "workspaces":[
+    "packages/*"
+  ]
+}
